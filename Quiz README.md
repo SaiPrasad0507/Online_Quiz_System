@@ -112,4 +112,4 @@ Riddhi - 2
 
 ## 👩‍💻 Author
 
-Riddhi Sharma
+Sai Prasad Neelmani
