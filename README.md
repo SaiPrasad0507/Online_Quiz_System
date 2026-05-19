@@ -62,7 +62,7 @@ QuizProject/
 
 ## 🧪 Sample Output
 
-Enter your name: Riddhi
+Enter your name: Sai
 
 Available Quizzes:
 
@@ -84,7 +84,7 @@ Correct!
 Your Score: 2
 
 --- Leaderboard ---
-Riddhi - 2
+Sai - 2
 
 ---
 
